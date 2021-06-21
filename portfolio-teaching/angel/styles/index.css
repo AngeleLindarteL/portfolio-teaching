@@ -1,0 +1,29 @@
+#about div h2{
+    color : rgb(223, 76, 76); 
+    background-color: aqua; 
+    border: black 2px solid;
+}
+
+#about{
+    background-image: url(../img/test/descarga.gif);
+    background-position: 12px 12px 23px 55px; /* left right bottom top */ 
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#about div{
+    background-color: rgba(0, 0, 0, 0.561);
+    color: white;
+}
+
+#proyects #proyect-1 .proyect-dc h2{
+    border-left: blue 4px dotted;
+    border: solid;
+    border-color: seagreen;
+}
+
+#gatito{
+    width: 100%;
+    margin: 10px 20px 20px 40px;
+    padding: 50px;
+}
