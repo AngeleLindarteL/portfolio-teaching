@@ -1,13 +1,18 @@
 #sobre-mi div p{
     color:rgb(255, 255, 255);
     height: 460px;
-    width: 100%;
+    width: 90%;
     background-image: url(../Imagenes/fondo1.gif) ;
     background-attachment: fixed;
     background-size: cover;
     background-size: 10px 10px 10px 10px; 
+    border: 4px solid black;
 }
 #sobre-mi div img{
     border-bottom-right-radius:80px;
 }
+header h1{
+    border: black solid 3px;
+}
+
 
